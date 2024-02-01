@@ -1,0 +1,80 @@
+[{
+  "_id": {
+    "$oid": "65baaead757d99fd5038563e"
+  },
+  "header": "Велосипед",
+  "price": 9800,
+  "image": "https://velomarket31.ru/image/cache/catalog/conrad/26LINDA-1000x1000.jpg"
+},
+{
+  "_id": {
+    "$oid": "65baee37757d99fd50385641"
+  },
+  "header": "Велосипед",
+  "price": 11999,
+  "image": "https://ir.ozone.ru/s3/multimedia-x/c1000/6550955985.jpg"
+},
+{
+  "_id": {
+    "$oid": "65baeee2757d99fd50385642"
+  },
+  "header": "Велосипед",
+  "price": 12000,
+  "image": "https://mountainpeaks.ru/upload/iblock/5bd/p2wk0k24fado05m5aslaq1stnwp6sc92/57f55688_8367_11ec_9231_002590ad6739_caf6b58e_8f39_11ec_9eb4_002590ad6739.jpg"
+},
+{
+  "_id": {
+    "$oid": "65baef88757d99fd50385643"
+  },
+  "header": "Скейтборды",
+  "price": 5399,
+  "image": "https://motodulevo.ru/wp-content/uploads/2022/03/x-game10.png"
+},
+{
+  "_id": {
+    "$oid": "65baf057757d99fd50385644"
+  },
+  "header": "Скейтборды",
+  "price": 2300,
+  "image": "https://ae03.alicdn.com/kf/S4223c36ec6524a34b85bac322029f811K.jpg"
+},
+{
+  "_id": {
+    "$oid": "65baf059757d99fd50385645"
+  },
+  "header": "Лыжи",
+  "price": 7000,
+  "image": "https://ros-test.info/images/article/5f92b25b2de2c.jpg"
+},
+{
+  "_id": {
+    "$oid": "65baf05b757d99fd50385646"
+  },
+  "header": "Сноуборд",
+  "price": 4199,
+  "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcQ22M6cR83HKxs51Ti4bxEyQ-jPGt43DL2-nY_F__JrZNnS7hbPZNCtsrXGgH6TeXLpEyiPNhbIhdy3KM_9aqF7UPyE7cm5fMFd6bsalSTetGR9Ub32PuMhLA&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf05d757d99fd50385647"
+  },
+  "header": "Сноуборд",
+  "price": 9133,
+  "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcR8u3fUuUwdpCluYusuhz9ipCDDcmoj6hdo0tSl58Jm0A7uVZ_7wSfwJUQZhFJA2bOx0HNRpHEL0M7IqppmVvcbb7NsHN-g4X1fdEfa5IFzgxLe343924jK&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf05f757d99fd50385648"
+  },
+  "header": "Лыжи",
+  "price": 2399,
+  "image": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcTd_aA-HB5lAqJIVa3vhhqP_iLxAfWKn6tjBQJNqiANR1pTX2OEmUAJ5cVQP8j4o4r9H1ENTbsrMcY9pDtii2HRZxm3MD_LwU-0FM2lougxQ6_BvWJAZFVUvg&usqp=CAE"
+},
+{
+  "_id": {
+    "$oid": "65baf060757d99fd50385649"
+  },
+  "header": "Самокат",
+  "price": 4990,
+  "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcTdcX-xzJI9hgCH-oLaaGy19DDcmNbCd89GzDqLC1Ug_q7vcSOIgoDp6zNX_wnCin5TRVDUUSl1mDkZr8uvolUHyG65IDd1nReB3KtEiQg&usqp=CAE"
+}]
